@@ -1,0 +1,39 @@
+[
+    {
+      "fact_student_course_score_sk": "00001",
+      "student_sk": "55555",
+      "course_sk": "CS321",
+      "term_sk": "K1N1",
+      "midterm_score": 7.0,
+      "final_score": 8.0,
+      "total_score": 8.0
+    },
+    {
+    "fact_student_course_score_sk": "00001",
+    "student_sk": "55555",
+    "course_sk": "CS123",
+    "term_sk": "K1N1",
+    "midterm_score": 7.5,
+    "final_score": 9.0,
+    "total_score": 9.0
+    },
+    {
+    "fact_student_course_score_sk": "00001",
+    "student_sk": "55555",
+    "course_sk": "MA110",
+    "term_sk": "K1N1",
+    "midterm_score": 8.0,
+    "final_score": 9.5,
+    "total_score": 9.5
+    },
+    {
+    "fact_student_course_score_sk": "00001",
+    "student_sk": "55555",
+    "course_sk": "GE101",
+    "term_sk": "K1N1",
+    "midterm_score": 9.0,
+    "final_score": 7.0,
+    "total_score": 7.6
+    }
+  ]
+
